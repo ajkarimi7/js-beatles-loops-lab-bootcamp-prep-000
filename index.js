@@ -16,12 +16,12 @@ function johnLennonFacts(facts) {
   return shoutedFacts
 }
 
-function iLoveTheBeatles(num) {
+function iLoveTheBeatles(n) {
   const arr = [];
   do {
     arr.push("I love the Beatles!")
-    i++
-  } while (num < 15) {
+    n++
+  } while (n < 15) {
     return arr
   }
 }
