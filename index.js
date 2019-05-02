@@ -9,4 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
 function johnLennonFacts(facts) {
   constant shoutedFacts = [];
   
+  let i = 0
+  while 
 }
