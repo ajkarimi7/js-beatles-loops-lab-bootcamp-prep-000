@@ -10,5 +10,5 @@ function johnLennonFacts(facts) {
   constant shoutedFacts = [];
   
   let i = 0
-  while 
+  while (i < facts.length)
 }
